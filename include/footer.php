@@ -1,0 +1,1 @@
+&copy; 2018 <?=$company_name?> | Design By : <a href="http://www.y3kimaginetion.co.in/" target="_blank">y3kimaginetion.co.in</a>
